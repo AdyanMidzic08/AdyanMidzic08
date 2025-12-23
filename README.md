@@ -12,45 +12,47 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdyanMidzic08&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AdyanMidzic08&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdyanMidzic08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<p align="center">
+  ## 📊 GitHub Stats:
+  ![](https://github-readme-stats.vercel.app/api?username=AdyanMidzic08&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=AdyanMidzic08&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdyanMidzic08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</p> 
 ---
 
 ## 🛠️ Skills
 
 ### Programming Languages
-
-<div>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/html5.svg" alt="HTML5" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/css3.svg" alt="CSS3" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/javascript.svg" alt="JavaScript" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/java.svg" alt="Java" width="40" />
-</div>
+<p align="center">
+  <div>
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML5" width="40"/>
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS3" width="40"/>
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="javascript" width="40" />
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="java" width="40" />
+  </div>
+</p>
 
 ---
 
 ### Development Tools
-
-<div>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/visualstudiocode.svg" alt="VS Code" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/intellijidea.svg" alt="IntelliJ IDEA" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/git.svg" alt="Git" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/github.svg" alt="GitHub" width="40" />
-</div>
-
+<p align="center">
+  <div>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/visualstudiocode.svg" alt="VS Code" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/intellijidea.svg" alt="IntelliJ IDEA" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/git.svg" alt="Git" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/github.svg" alt="GitHub" width="40" />
+  </div>
+</p>
 ---
 
 ### Creativity
-
-<div>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/adobelightroomclassic.svg" alt="Adobe Lightroom" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/adobeaudition.svg" alt="Adobe Audition" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/adobepremierepro.svg" alt="Adobe Premiere Pro" width="40" />
-</div>
-
+<p align="center">
+  <div>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/adobelightroomclassic.svg" alt="Adobe Lightroom" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/adobeaudition.svg" alt="Adobe Audition" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/adobepremierepro.svg" alt="Adobe Premiere Pro" width="40" />
+  </div>
+</p>
 ---
 
 ## 📫 Connect with me
