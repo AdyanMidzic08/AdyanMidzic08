@@ -12,22 +12,10 @@
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AdyanMidzic08&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdyanMidzic08&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AdyanMidzic08&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AdyanMidzic08&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdyanMidzic08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
