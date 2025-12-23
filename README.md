@@ -6,8 +6,6 @@
   <img src="https://views.igorkowalczyk.dev/api/badge/AdyanMidzic08" alt="Profile views" />
 </p>
 
----
-
 <h2 align="center">👋 About me</h2>
 
 <p align="center">
@@ -15,7 +13,6 @@
   🎯 My goal: <b>Improve my programming skills and learn new technologies</b>
 </p>
 
----
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -24,8 +21,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=AdyanMidzic08&theme=dark&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdyanMidzic08&theme=dark&hide_border=false&layout=compact" />
 </p>
-
----
 
 <h2 align="center">🛠️ Skills</h2>
 
@@ -38,8 +33,6 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="40" />
 </p>
 
----
-
 <h3 align="center">Development Tools</h3>
 
 <p align="center">
@@ -49,8 +42,6 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="40" />
 </p>
 
----
-
 <h3 align="center">Creativity</h3>
 
 <p align="center">
@@ -58,8 +49,6 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/adobeaudition.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/adobepremierepro.svg" width="40" />
 </p>
-
----
 
 <h2 align="center">📫 Connect with me</h2>
 
@@ -74,8 +63,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,100:3282b8&height=120&section=footer"/>
