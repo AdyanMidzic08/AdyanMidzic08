@@ -11,15 +11,14 @@
 - 🎯 My goal: To improve my programming skills and learn new skills
 
 ---
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  ## 📊 GitHub Stats:
-  ![](https://github-readme-stats.vercel.app/api?username=AdyanMidzic08&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://nirzak-streak-stats.vercel.app/?user=AdyanMidzic08&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdyanMidzic08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</p> 
+  <img src="https://github-readme-stats.vercel.app/api?username=AdyanMidzic08&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AdyanMidzic08&theme=dark&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdyanMidzic08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 ---
-
 ## 🛠️ Skills
 
 ### Programming Languages
@@ -31,16 +30,15 @@
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="java" width="40" />
   </div>
 </p>
-
 ---
 
 ### Development Tools
 <p align="center">
   <div>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/visualstudiocode.svg" alt="VS Code" width="40" />
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/intellijidea.svg" alt="IntelliJ IDEA" width="40" />
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/git.svg" alt="Git" width="40" />
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/github.svg" alt="GitHub" width="40" />
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="VS Code" width="40" />
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ IDEA" width="40" />
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" width="40" />
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" width="40" />
   </div>
 </p>
 ---
@@ -82,9 +80,7 @@
     />
   </a>
 </p>
-
 ---
-
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,100:3282b8&height=120&section=footer"
