@@ -28,6 +28,7 @@
   />
 </p>
 
+
 ---
 
 ## 🛠️ Skills
@@ -35,10 +36,10 @@
 ### Programming Languages
 
 <div>
-  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="40" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="40" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" />
-  <img src="https://cdn.simpleicons.org/java/007396" alt="Java" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/html5.svg" alt="HTML5" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/css3.svg" alt="CSS3" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/javascript.svg" alt="JavaScript" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/java.svg" alt="Java" width="40" />
 </div>
 
 ---
@@ -46,10 +47,10 @@
 ### Development Tools
 
 <div>
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="VS Code" width="40" />
-  <img src="https://cdn.simpleicons.org/intellijidea/000000" alt="IntelliJ IDEA" width="40" />
-  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" />
-  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/visualstudiocode.svg" alt="VS Code" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/intellijidea.svg" alt="IntelliJ IDEA" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/git.svg" alt="Git" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/github.svg" alt="GitHub" width="40" />
 </div>
 
 ---
@@ -57,9 +58,9 @@
 ### Creativity
 
 <div>
-  <img src="https://cdn.simpleicons.org/adobelightroom/31A8FF" alt="Adobe Lightroom" width="40" />
-  <img src="https://cdn.simpleicons.org/adobeaudition/9999FF" alt="Adobe Audition" width="40" />
-  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" alt="Adobe Premiere Pro" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/adobelightroomclassic.svg" alt="Adobe Lightroom" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/adobeaudition.svg" alt="Adobe Audition" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/adobepremierepro.svg" alt="Adobe Premiere Pro" width="40" />
 </div>
 
 ---
