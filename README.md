@@ -1,89 +1,82 @@
-![Header](./Github-Header-Banner.png)
+<p align="center">
+  <img src="./Github-Header-Banner.png" alt="Header" />
+</p>
 
 <p align="center">
-  <!-- Profile views -->
   <img src="https://views.igorkowalczyk.dev/api/badge/AdyanMidzic08" alt="Profile views" />
 </p>
 
-## 👋 About me
+---
 
-- 🌱 I’m currently learning: NodeJS & Typescript
-- 🎯 My goal: To improve my programming skills and learn new skills
+<h2 align="center">👋 About me</h2>
+
+<p align="center">
+  🌱 I’m currently learning: <b>NodeJS & TypeScript</b><br/>
+  🎯 My goal: <b>Improve my programming skills and learn new technologies</b>
+</p>
 
 ---
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdyanMidzic08&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdyanMidzic08&theme=dark&hide_border=false" /><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=AdyanMidzic08&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdyanMidzic08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdyanMidzic08&theme=dark&hide_border=false&layout=compact" />
 </p>
----
-## 🛠️ Skills
 
-### Programming Languages
-<p align="center">
-  <div>
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML5" width="40"/>
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS3" width="40"/>
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="javascript" width="40" />
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="java" width="40" />
-  </div>
-</p>
 ---
 
-### Development Tools
+<h2 align="center">🛠️ Skills</h2>
+
+<h3 align="center">Programming Languages</h3>
+
 <p align="center">
-  <div>
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="VS Code" width="40" />
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ IDEA" width="40" />
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" width="40" />
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" width="40" />
-  </div>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="40" />
 </p>
+
 ---
 
-### Creativity
+<h3 align="center">Development Tools</h3>
+
 <p align="center">
-  <div>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/adobelightroomclassic.svg" alt="Adobe Lightroom" width="40" />
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/adobeaudition.svg" alt="Adobe Audition" width="40" />
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/adobepremierepro.svg" alt="Adobe Premiere Pro" width="40" />
-  </div>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" width="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="40" />
 </p>
+
 ---
 
-## 📫 Connect with me
+<h3 align="center">Creativity</h3>
 
 <p align="center">
-  <!-- Instagram -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/adobelightroomclassic.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/adobeaudition.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/adobepremierepro.svg" width="40" />
+</p>
+
+---
+
+<h2 align="center">📫 Connect with me</h2>
+
+<p align="center">
   <a href="https://www.instagram.com/adyan.miz/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-
-  <!-- Discord -->
   <a href="https://discord.com/users/944650199886876762" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
-      alt="Discord"
-    />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-
-  <!-- Email -->
-  <a href="a.midzic2@students.htl-leonding.ac.at">
-    <img
-      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
+  <a href="mailto:a.midzic2@students.htl-leonding.ac.at">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 ---
+
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,100:3282b8&height=120&section=footer"
-    alt="Wave footer"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,100:3282b8&height=120&section=footer"/>
 </p>
