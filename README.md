@@ -45,9 +45,11 @@
 <h3 align="center">Creativity</h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/adobelightroomclassic.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/adobeaudition.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/adobepremierepro.svg" width="40" />
+  <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" width="40" />
+  <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" width="40" />
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" width="40" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" width="40" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="40" />
 </p>
 
 <h2 align="center">📫 Connect with me</h2>
