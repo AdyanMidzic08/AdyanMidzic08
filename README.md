@@ -33,6 +33,13 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="40" />
 </p>
 
+<h3 align="center">Technologies</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" width="40"/>
+</p>
+
 <h3 align="center">Development Tools</h3>
 
 <p align="center">
