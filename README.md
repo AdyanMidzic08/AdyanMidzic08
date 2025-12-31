@@ -6,6 +6,12 @@
   <img src="https://views.igorkowalczyk.dev/api/badge/AdyanMidzic08" alt="Profile views" />
 </p>
 
+<h2 align="center">🚧 Current Projects</h2>
+<p align="center">
+  🔹 [Notes-TS](https://github.com/AdyanMidzic08/Notes-TS) - In Progress 🚧
+  🔹 [Movies-API-TS](https://github.com/AdyanMidzic08/Movies-API-TS) - In Progress 🚧
+</p>
+
 <h2 align="center">👋 About me</h2>
 
 <p align="center">
