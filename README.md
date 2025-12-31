@@ -8,9 +8,7 @@
 
 <h2 align="center">🚧 Current Projects</h2>
 <p align="center">
-  🔹 [Notes-TS](https://github.com/AdyanMidzic08/Notes-TS) - In Progress 🚧
-  <br>
-  🔹 [Movies-API-TS](https://github.com/AdyanMidzic08/Movies-API-TS) - In Progress 🚧
+  [![In Progress](https://img.shields.io/badge/Movies--API--TS-In%20Progress-orange)](https://github.com/AdyanMidzic08/Movies-API-TS)
 </p>
 
 <h2 align="center">👋 About me</h2>
