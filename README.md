@@ -6,11 +6,6 @@
   <img src="https://views.igorkowalczyk.dev/api/badge/AdyanMidzic08" alt="Profile views" />
 </p>
 
-<h2 align="center">🚧 Current Projects</h2>
-<p align="center">
-  [![In Progress](https://img.shields.io/badge/Movies--API--TS-In%20Progress-orange)](https://github.com/AdyanMidzic08/Movies-API-TS)
-</p>
-
 <h2 align="center">👋 About me</h2>
 
 <p align="center">
