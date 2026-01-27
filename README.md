@@ -9,7 +9,7 @@
 <h2 align="center">👋 About me</h2>
 
 <p align="center">
-  🌱 I’m currently learning: <b>NodeJS & TypeScript</b><br/>
+  🌱 I’m currently learning: <b>React</b><br/>
   🎯 My goal: <b>Improve my programming skills and learn new technologies</b>
 </p>
 
