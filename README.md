@@ -33,12 +33,12 @@
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AdyanMidzic08&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub stats" />
+  <img height="180" src="./profile/stats.svg" alt="GitHub stats" />
   <img height="180" src="https://streak-stats.demolab.com/?user=AdyanMidzic08&theme=tokyonight&hide_border=true" alt="Streak stats" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdyanMidzic08&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages" />
+  <img height="180" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <!-- TECH STACK -->
