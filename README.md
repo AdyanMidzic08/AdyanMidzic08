@@ -55,7 +55,7 @@
 
 <p align="center"><b>Tools, OS & Design</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,ae,pr,ubuntu,raspberrypi,arduino&theme=dark&perline=12" alt="Tools, OS and design" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,ae,pr,arch,raspberrypi,arduino&theme=dark&perline=12" alt="Tools, OS and design" />
 </p>
 
 <!-- CONTACT -->
